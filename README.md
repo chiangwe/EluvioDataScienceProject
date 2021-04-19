@@ -1,4 +1,5 @@
 # Eluvio Data Science Project
+
 | File Name | Description |
 | 01_DataPreposssing_BinaryClassificationModeling.py | Check statistics and labeling |
 | 02_NeuralNetwork_Tf-Idf.ipynb | Bag of words strategy |                       
