@@ -1,2 +1,2 @@
-# EluvioDataScienceProject
+# Eluvio Data Science Project
 EluvioDataScienceProject
