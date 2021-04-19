@@ -1,5 +1,10 @@
 # Eluvio Data Science Project
-EluvioDataScienceProject
+| File Name | Description |
+| 01_DataPreposssing_BinaryClassificationModeling.py | Check statistics and labeling |
+| 02_NeuralNetwork_Tf-Idf.ipynb | Bag of words strategy |                       
+| 03_NeuralNetwork_Pca_ChiTest.ipynb |  Feature selection and dimentionality reduction |                                               
+| 04_NeuralNetwork_nnlm_googlenews_pretrain.ipynb | Various neural netword model |                   
+| 05_Clustering_Topic_recommendation.ipynb | Clustering and Topic Recommendation (MF and SLIM model) |         
 
 # Reports on the Resutls and Methodalogy
 
